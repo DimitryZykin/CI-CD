@@ -57,18 +57,18 @@ deploy to production:
 
 Для настройки переменных добавляем переменную `$MyPassword` через интерфейс. Для разных сред исполнения она будет разной. 
 
-![variables page](img/VirtualBox_cibox_03_12_2023_15_22_42.png "variables page")
+![variables page](img/pic1.png "variables page")
 
 Pipeline passed
-![pipeline passed](img/VirtualBox_cibox_03_12_2023_15_29_27.png "pipeline passed")
+![pipeline passed](img/pic2.png "pipeline passed")
 
 Deploy to preprod. На скриншоте — уникальные $MyLogin и $MyPassword для preprod
-![deploy to preprod](img/VirtualBox_cibox_03_12_2023_15_31_48.png "deploy to preprod")
+![deploy to preprod](img/pic3.png "deploy to preprod")
 
 Deploy to production. Для production — свои $MyLogin и $MyPassword
-![deploy to production](img/VirtualBox_cibox_03_12_2023_15_39_31.png "deploy to production")
+![deploy to production](img/pic4.png "deploy to production")
 
 ### Пункт 5
 
 
-1
+...
